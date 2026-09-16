@@ -2,10 +2,9 @@
 
 # 👋 Merhaba, ben Serdar Durbarış
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;Python+%C2%B7+FastAPI+%C2%B7+Django;Web+%26+Mobile+Experiences;Clean+Code.+Reliable+Systems." alt="Full Stack Developer — Python, Web, Mobile ve DevOps" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;Python+%C2%B7+FastAPI+%C2%B7+Django;Web+%26+Mobile+Experiences;25+Years+of+Software+Development" alt="Full Stack Developer — Python, Web, Mobile ve DevOps" />
 
-**Fikirden API'ye, arayüzden üretime.**  
-Temiz kod, güvenilir servisler ve ölçeklenebilir uygulamalar.
+**25 yıllık yazılım geliştirme deneyimi · C# / .NET · Python · Web & Mobil**
 
 <img src="https://img.shields.io/badge/BACKEND-Python-38BDF8?style=for-the-badge&labelColor=0D1117" alt="Backend: Python" />
 <img src="https://img.shields.io/badge/WEB-React_%26_Next.js-A78BFA?style=for-the-badge&labelColor=0D1117" alt="Web: React ve Next.js" />
@@ -20,11 +19,9 @@ Temiz kod, güvenilir servisler ve ölçeklenebilir uygulamalar.
 
 ---
 
-### 🧑‍💻 Kodun arkasındaki kişi
+### 🧑‍💻 Hakkımda
 
-Python ağırlıklı backend geliştiren bir **full stack geliştiriciyim**. FastAPI ve Django ile servisler, React ve Next.js ile web arayüzleri, Flutter ile mobil uygulamalar geliştiriyorum.
-
-**Performans · Sürdürülebilir mimari · Gözlemlenebilirlik**
+Ben Serdar Durbarış. 25 yıldır yazılım geliştiriyorum. Kariyerimin uzun bir döneminde C# ve .NET ile çalıştım; zamanla Python, web ve mobil teknolojilerini de çalışmalarıma dahil ettim. Servis takip portalları, muhasebe ve finans süreçlerini kapsayan yönetim uygulamaları ve kurumsal sipariş yönetim sistemleri geliştirdim. WebSocket üzerinden anlık veri akışlarını işleyen uygulamalar ve Telegram botları üzerinde de çalışıyorum. Bugün ağırlıklı olarak Python, React, Next.js ve Flutter kullanıyor, projelerin mimarisinden geliştirme ve yayına alma süreçlerine kadar aktif rol alıyorum.
 
 ### ⚡ Teknoloji Evrenim
 
@@ -59,17 +56,8 @@ Python ağırlıklı backend geliştiren bir **full stack geliştiriciyim**. Fas
 
 | | Neler geliştiriyorum? |
 | :---: | :--- |
-| ⚡ | **Hızlı API'ler** — REST, WebSocket, şema yönetimi ve kimlik doğrulama |
+| ⚡ | **Gerçek zamanlı uygulamalar** — WebSocket veri akışları ve Telegram botları |
 | 🧩 | **Uçtan uca uygulamalar** — Web arayüzleri ve platformlar arası mobil deneyimler |
 | 🏗️ | **Sağlam mimari** — Mikro servisler, mesajlaşma ve önbellekleme |
 | 📦 | **Güvenilir dağıtım** — Docker, CI/CD, izleme ve loglama |
 
----
-
-<div align="center">
-
-**⌨️ Backend'den arayüze, her katmanda özen.**
-
-<img src="https://img.shields.io/badge/BUILD_WITH-CARE-38BDF8?style=flat-square&labelColor=0D1117" alt="Build with care" />
-
-</div>
